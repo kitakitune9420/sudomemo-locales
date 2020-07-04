@@ -14,7 +14,7 @@ msgid "USERNAME"
 msgstr "ユーザー名"
 
 msgid "RESULTS"
-msgstr "結果"
+msgstr "検索結果"
 
 msgid "SEARCH_USERNAME"
 msgstr "ユーザー名検索"
