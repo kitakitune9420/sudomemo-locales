@@ -104,12 +104,12 @@ msgid "ENTER_DESCRIPTION"
 msgstr "説明を入力してください..."
 
 msgid "HEADER_FLIPNOTE_OPTIONS"
-msgstr "Options"
+msgstr "設定"
 
 msgid "HEADER_SONG"
-msgstr "Song"
+msgstr "曲"
 
 # This is shown to logged-in users on their own Flipnotes without titles
 
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
-msgstr "Untitled Flipnote by %s"
+msgstr "%s さんの無題の作品"
