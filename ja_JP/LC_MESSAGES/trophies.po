@@ -3,21 +3,21 @@
 ## UI Headers, messages, labels
 
 msgid "TROPHY_CASE"
-msgstr "Trophy Case"
+msgstr "トルフィーケース"
 
 msgid "CASE_IS_EMPTY"
-msgstr "The Trophy Case is empty."
+msgstr "入手したトルフィーはありません。"
 
 msgid "ACHIEVEMENT_EARNED"
-msgstr "Achievement Get!"
+msgstr "実績を達成しました!"
 
 msgid "CONTINUE"
-msgstr "Continue"
+msgstr "続ける"
 
 ## Trophy names and descriptions
 
 msgid "TROPHY_NAME_demo_tester"
-msgstr "Demo Tester"
+msgstr "デモ テスター"
 
 msgid "TROPHY_DESC_demo_tester"
 msgstr "Participate in the 2017 Sudomemo Update Demo Testing program"
