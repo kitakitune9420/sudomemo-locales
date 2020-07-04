@@ -164,7 +164,7 @@ msgid "SET_BIO_INSTRUCTIONS"
 msgstr "プロフィールを以下に入力してください。これはSudomemoとSudomemo Theatreに掲載されます。"
 
 msgid "ENTER_BIO"
-msgstr "プロフィールを入力してください…"
+msgstr "プロフィールを入力してください…（英語入力のみ）"
 
 msgid "101_CHARACTER_LIMIT_BIO"
 msgstr "プロフィールは101文字以下に制限されています。"
@@ -206,10 +206,10 @@ msgid "SPENDABLE_STARS_HELPTEXT"
 msgstr "作品を評価したり、テーマに使用するスター"
 
 msgid "LOGIN_REQUIRED_ACTION"
-msgstr "You must be logged in to perform this action."
+msgstr "この機能を使用するには、ログインする必要があります。"
 
 msgid "PAGE"
-msgstr "Page"
+msgstr "ページ"
 
 msgid "PAGE_COUNTER_FORMAT"
 msgstr "%d of %d"
